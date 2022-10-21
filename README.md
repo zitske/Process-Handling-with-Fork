@@ -22,7 +22,7 @@ fibn = fibn-1 + fibn-2
 
 ### Expected output
 
-![alt text](https://github.com/zitske/Process-Handling-with-Fork/blob/Dart_Password_Strength/output.png?raw=true)
+![alt text](https://github.com/zitske/Process-Handling-with-Fork/blob/main/output.png?raw=true)
 
 ## 📝 License
 
